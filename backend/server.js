@@ -30,9 +30,9 @@ const server = app.listen(8000, console.log("Server is running on http://localho
 const io = require("socket.io")(server, {
     pingTimeout: 60000,
     cors: {
-      origin: "http://localhost:3000"
+        origin: "http://localhost:3000"
     }
-  });
+});
   
 io.on("connection", (socket) => {
     socket.on("setup", (userData) => {
