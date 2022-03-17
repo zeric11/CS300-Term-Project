@@ -71,14 +71,14 @@ yet to fixed (particularly in the front end):
 
 Here are some of the resources that I found to be the most helpful for this project:
 
-	https://www.youtube.com/watch?v=mrHNSanmqQ4&t=2400s
+	https://www.youtube.com/watch?v=mrHNSanmqQ4
 	
-	https://www.youtube.com/watch?v=7CqJlxBYj-M&t=36s
+	https://www.youtube.com/watch?v=7CqJlxBYj-M
 	
 	https://www.youtube.com/watch?v=gzdQDxzW2Tw
 	
 	https://www.youtube.com/watch?v=3vRcB0P84t4&list=PLKhlp2qtUcSZsGkxAdgnPcHioRr-4guZf
 	
-	https://www.youtube.com/watch?v=ZwFA3YMfkoc&t=1768s
+	https://www.youtube.com/watch?v=ZwFA3YMfkoc
 	
 	https://javascript.plainenglish.io/build-your-own-realtime-chat-app-with-mern-stack-c5908ba75126
